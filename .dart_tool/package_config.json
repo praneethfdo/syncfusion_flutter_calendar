@@ -1,0 +1,92 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "characters",
+      "rootUri": "file:///Users/praneethfernando/.pub-cache/hosted/pub.dev/characters-1.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "clock",
+      "rootUri": "file:///Users/praneethfernando/.pub-cache/hosted/pub.dev/clock-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///Users/praneethfernando/.pub-cache/hosted/pub.dev/collection-1.18.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "flutter",
+      "rootUri": "file:///Users/praneethfernando/Documents/software/flutter316/packages/flutter",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///Users/praneethfernando/.pub-cache/hosted/pub.dev/intl-0.19.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "material_color_utilities",
+      "rootUri": "file:///Users/praneethfernando/.pub-cache/hosted/pub.dev/material_color_utilities-0.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///Users/praneethfernando/.pub-cache/hosted/pub.dev/meta-1.11.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///Users/praneethfernando/.pub-cache/hosted/pub.dev/path-1.9.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "sky_engine",
+      "rootUri": "file:///Users/praneethfernando/Documents/software/flutter316/bin/cache/pkg/sky_engine",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "syncfusion_flutter_core",
+      "rootUri": "file:///Users/praneethfernando/.pub-cache/hosted/pub.dev/syncfusion_flutter_core-24.2.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "syncfusion_flutter_datepicker",
+      "rootUri": "file:///Users/praneethfernando/.pub-cache/hosted/pub.dev/syncfusion_flutter_datepicker-24.2.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "timezone",
+      "rootUri": "file:///Users/praneethfernando/.pub-cache/hosted/pub.dev/timezone-0.9.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "vector_math",
+      "rootUri": "file:///Users/praneethfernando/.pub-cache/hosted/pub.dev/vector_math-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "syncfusion_flutter_calendar",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    }
+  ],
+  "generated": "2024-02-24T05:22:51.347620Z",
+  "generator": "pub",
+  "generatorVersion": "3.3.0"
+}
